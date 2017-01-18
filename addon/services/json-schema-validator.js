@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import jsonSchemaSchema from 'ember-cli-json-schema/schemas/json-schema';
+import jsonSchemaSchema from 'ember-cli-json-schema-validator/schemas/json-schema';
 
 var JsonSchemaValidatorService = Ember.Service.extend({
   // Validates the argument is a valid JSON schema and returns errors, if any.

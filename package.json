@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-json-schema-validator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Validates JSON Schema schemas (the schemas themselves, not to be confused with validating JSON objects against a JSON schema).",
   "keywords": [
     "ember-addon"
